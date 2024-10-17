@@ -5,9 +5,9 @@ body {
  
  footer {
     background-color: violet
-    color:pink;
+    color: pink;
     position: fixed;
-    botton: 0;
+    bottom: 0;
     width: 100%;
     height: 2rem;
  }
