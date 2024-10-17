@@ -1,11 +1,15 @@
-footer {
-body{
+body {
+ background-color: darkorchid;
+}
+ 
+ footer {
     background-color: violet
     color:pink;
     position: fixed;
     botton: 0;
     width: 100%;
-}
+    height: 2rem;
+ }
    footer p {
     text-aling: center;
     font-size: 0.6rem;
