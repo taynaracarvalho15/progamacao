@@ -1,5 +1,6 @@
 body {
  background-color: darkorchid;
+ font-family: cursive;
 }
  
  footer {
@@ -13,10 +14,20 @@ body {
    footer p {
     text-aling: center;
     font-size: 0.6rem;
+    margin: 0.5rem;
 
-    
+   }
+   
+   #container{
+      display: flex;
+   }
+   .cartao {
+      margin: 1rem 1rem;
+   }
 
-
+   <div class="cartao__conteudo__resposta">
+       <p>O que é JavaScript?</p>
+   </div>
 
 
 
